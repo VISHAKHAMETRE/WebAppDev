@@ -1,0 +1,14 @@
+div{
+    background-color: rgb(15, 15, 15);
+}
+body{
+    color: white;
+}
+td,tr{
+    background-color: rgb(39, 38, 39);
+    text-align: center;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+}
